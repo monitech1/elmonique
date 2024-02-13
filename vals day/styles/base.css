@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif, 'Caveat';
+    text-align: center;
+    background-color: #f7e0e0; /* Soft pink background */
+    color: #110f0f; /* Dark text color */
+    padding-top: 20px; /* Add some space at the top */
+}
+
+h1 {
+    color: #e60000; /* Red color for the heading */
+    font-size: 32px; /* Increase the font size for the heading */
+    margin-bottom: 20px; /* Add space after the heading */
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* White background for the container */
+    border-radius: 15px; /* Rounded corners for the container */
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.1); /* Soft shadow effect */
+}
+
+p {
+    margin-bottom: 15px; /* Add space after paragraphs */
+}
